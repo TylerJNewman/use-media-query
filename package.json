@@ -1,5 +1,5 @@
 {
-  "name": "use-media-query",
+  "name": "@tylerjnewman/use-media-query",
   "version": "1.0.0",
   "description": "custom react hook written in typescript used for when we want to use the window size in order to decide whether to conditionally load a component or not",
   "author": "tylerjnewman",
